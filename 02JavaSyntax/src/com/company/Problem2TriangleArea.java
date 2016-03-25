@@ -1,6 +1,6 @@
 package com.company;
 
-import java.util.Scanner
+import java.util.Scanner;
 /**
  * Created by Dyno on 22.3.2016 г..
  */

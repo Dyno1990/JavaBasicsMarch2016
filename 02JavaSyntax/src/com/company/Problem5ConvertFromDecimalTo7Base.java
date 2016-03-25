@@ -7,7 +7,7 @@ import java.util.Scanner;
  * Created by Dyno on 23.3.2016 г..
  */
 public class Problem5ConvertFromDecimalTo7Base {
-    public static void ConvertDecimalTo7Base{
+    public static void ConvertDecimalTo7Base(){
 
         Scanner console = new Scanner(System.in);
 

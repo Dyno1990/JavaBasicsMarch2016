@@ -8,7 +8,7 @@ import java.util.regex.Pattern;
  * Created by Dyno on 23.3.2016 г..
  */
 public class Problem11GetFirstOddOrEveneElements {
-    public static void GetFirstOddOrEvenElement(){
+    public static void main(){
         Scanner scan = new Scanner(System.in);
         String input = scan.nextLine();
         String[] numbersString = input.split(" ");
